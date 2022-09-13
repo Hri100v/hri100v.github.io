@@ -2089,6 +2089,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		min-width: 135.77px;
 	}
 
 		input[type="submit"].icon:before,
